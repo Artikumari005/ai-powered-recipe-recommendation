@@ -1,5 +1,5 @@
 # Chefexa – AI Recipe Recommendation App
-📌 #Project Description
+📌 # Project Description
 
 Chefexa is an AI-powered recipe recommendation web application.
 When a user enters the ingredients they have, the app generates suitable recipe suggestions using an AI model.

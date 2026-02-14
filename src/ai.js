@@ -24,6 +24,10 @@ export async function getRecipeFromMistral(ingredientsArr) {
     } catch (err) {
         console.error("Failed to get recipe from Groq:", err)
         throw err
+
+    }
+    finally{
+        console.log('function executed ');
     }
 }
 

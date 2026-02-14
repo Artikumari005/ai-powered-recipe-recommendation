@@ -5,7 +5,7 @@
   "rewrites": [
     {
       "source": "/chefexa/(.*)",
-      "destination": "/Chefexa/index.html"
+      "destination": "/chefexa/index.html"
     },
     {
       "source": "/chefexa",

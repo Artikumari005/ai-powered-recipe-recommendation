@@ -1,12 +1,12 @@
-🍳 Chefexa – AI Recipe Recommendation App
-📌 Project Description
+🍳 #Chefexa – AI Recipe Recommendation App
+📌 #Project Description
 
 Chefexa is an AI-powered recipe recommendation web application.
 When a user enters the ingredients they have, the app generates suitable recipe suggestions using an AI model.
 
 The goal of this project is to help users quickly discover recipes based on available ingredients, reducing food waste and saving time.
 
-🚀 Features
+🚀# Features
 
 Input ingredients manually
 
@@ -18,7 +18,7 @@ Clean and simple user interface
 
 Scalable for future enhancements (nutrition info, images, favorites, etc.)
 
-🧠 AI & API Used
+🧠# AI & API Used
 
 API Provider: Groq (Free tier)
 
@@ -29,7 +29,7 @@ The application is currently configured to use Groq’s LLaMA model for recipe g
 An API key for Anthropic Claude is also configured in the environment but is not actively used in the current implementation.
 (The code currently calls the Groq-based function for recipe generation.)
 
-⚙️ Tech Stack
+⚙️# Tech Stack
 
 HTML
 
